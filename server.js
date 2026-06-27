@@ -66,15 +66,34 @@ async function seedDatabase() {
     }
 }
 
-// Connect to MongoDB
-mongoose.connect(MONGODB_URI)
-    .then(async () => {
-        console.log('MongoDB: Successfully connected to MongoDB database.');
-        await seedDatabase();
-    })
-    .catch(err => {
-        console.error('MongoDB Connection Error:', err);
-    });
+let cachedDbConnection = null;
+
+async function connectDatabase() {
+    if (cachedDbConnection && mongoose.connection.readyState === 1) {
+        return cachedDbConnection;
+    }
+
+    console.log('MongoDB: Connecting to database...');
+    cachedDbConnection = await mongoose.connect(MONGODB_URI);
+    console.log('MongoDB: Successfully connected.');
+    
+    // Seed questions on first successful connection
+    await seedDatabase();
+    return cachedDbConnection;
+}
+
+// Middleware to ensure database is connected for API requests
+app.use(async (req, res, next) => {
+    if (req.path.startsWith('/api')) {
+        try {
+            await connectDatabase();
+        } catch (err) {
+            console.error('Database connection middleware error:', err);
+            return res.status(500).json({ error: 'Database connection failed: ' + err.message });
+        }
+    }
+    next();
+});
 
 // ==========================================
 // GET diagnostics debug route
