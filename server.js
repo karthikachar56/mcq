@@ -77,8 +77,35 @@ mongoose.connect(MONGODB_URI)
     });
 
 // ==========================================
-// 3. API ENDPOINTS
-// ==========================================
+// GET diagnostics debug route
+app.get('/api/debug', async (req, res) => {
+    try {
+        const maskedUri = MONGODB_URI ? MONGODB_URI.replace(/:([^@]+)@/, ':****@') : 'Not Set';
+        
+        let connectionStatus = '';
+        switch(mongoose.connection.readyState) {
+            case 0: connectionStatus = 'disconnected'; break;
+            case 1: connectionStatus = 'connected'; break;
+            case 2: connectionStatus = 'connecting'; break;
+            case 3: connectionStatus = 'disconnecting'; break;
+        }
+
+        res.json({
+            status: 'online',
+            environment: {
+                VERCEL: process.env.VERCEL || 'false',
+                NODE_ENV: process.env.NODE_ENV || 'development'
+            },
+            database: {
+                connectionState: connectionStatus,
+                connectionCode: mongoose.connection.readyState,
+                uri: maskedUri
+            }
+        });
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+});
 
 // GET all questions
 app.get('/api/questions', async (req, res) => {
