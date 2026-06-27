@@ -176,7 +176,11 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-// Start Server
-app.listen(PORT, () => {
-    console.log(`Server: Premium UHV MCQ Server is running on port ${PORT}.`);
-});
+// Start Server locally
+if (process.env.NODE_ENV !== 'production' || !process.env.VERCEL) {
+    app.listen(PORT, () => {
+        console.log(`Server: Premium UHV MCQ Server is running on port ${PORT}.`);
+    });
+}
+
+module.exports = app;
