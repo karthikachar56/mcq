@@ -1,0 +1,1805 @@
+[
+  {
+    "id": 1,
+    "unit": "Unit 1",
+    "question": "What is invariant and universal among all human beings?",
+    "options": [
+      "Natural Acceptance",
+      "Understanding",
+      "Expectations",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "unit": "Unit 1",
+    "question": "Value education helps to:",
+    "options": [
+      "Remove confusions",
+      "Bring harmony",
+      "Remove contradictions",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "unit": "Unit 1",
+    "question": "Universal human aspiration is:",
+    "options": [
+      "Happiness",
+      "Prosperity",
+      "Continuity of Happiness and Prosperity",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "unit": "Unit 1",
+    "question": "Happiness is:",
+    "options": [
+      "Harmony within",
+      "Sensation",
+      "Preconditioning",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "unit": "Unit 1",
+    "question": "Self-exploration is:",
+    "options": [
+      "Self-investigation",
+      "Dialogue within",
+      "Evaluation process",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "unit": "Unit 1",
+    "question": "Holistic development includes:",
+    "options": [
+      "Physical facility",
+      "Relationship",
+      "Right understanding",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "unit": "Unit 1",
+    "question": "Ethical profession is:",
+    "options": [
+      "Service",
+      "Wealth generation",
+      "Skills",
+      "Both A & C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "unit": "Unit 1",
+    "question": "Imagination includes:",
+    "options": [
+      "Desires",
+      "Thoughts",
+      "Expectations",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "unit": "Unit 1",
+    "question": "Basic desire of human being:",
+    "options": [
+      "Happiness",
+      "Prosperity",
+      "Happiness + Prosperity",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "unit": "Unit 1",
+    "question": "Human life levels include:",
+    "options": [
+      "Individual",
+      "Family",
+      "Society",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "unit": "Unit 1",
+    "question": "Value education leads to:",
+    "options": [
+      "Harmony",
+      "Conflict",
+      "Confusion",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "unit": "Unit 1",
+    "question": "Verification should be based on:",
+    "options": [
+      "Natural acceptance",
+      "Books",
+      "Others",
+      "Assumptions"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "unit": "Unit 1",
+    "question": "Continuous happiness depends on:",
+    "options": [
+      "External factors",
+      "Wealth",
+      "Right understanding",
+      "Luck"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "unit": "Unit 1",
+    "question": "Physical facilities alone provide:",
+    "options": [
+      "Happiness",
+      "Prosperity",
+      "Both",
+      "None"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "unit": "Unit 1",
+    "question": "Human endeavour includes:",
+    "options": [
+      "Education",
+      "Corruption",
+      "Competition",
+      "None"
+    ],
+    "answer": 0
+  },
+    {
+    "id": 16,
+    "unit": "Unit 1",
+    "question": "Right sequence:",
+    "options": [
+      "Right understanding → Relationship → Physical facility",
+      "Physical facility → Relationship → Understanding",
+      "Relationship → Physical facility → Understanding",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "unit": "Unit 1",
+    "question": "Value domain deals with:",
+    "options": [
+      "Learning",
+      "Understanding",
+      "Skills",
+      "Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "unit": "Unit 1",
+    "question": "Expression of thought is through:",
+    "options": [
+      "Behaviour",
+      "Work",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "unit": "Unit 1",
+    "question": "Self-exploration leads to:",
+    "options": [
+      "Realization",
+      "Right understanding",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "unit": "Unit 1",
+    "question": "Undivided society is based on:",
+    "options": [
+      "Love & Oneness",
+      "Wealth",
+      "Power",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "unit": "Unit 1",
+    "question": "Relationship feelings base:",
+    "options": [
+      "Trust",
+      "Respect",
+      "Affection",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "unit": "Unit 1",
+    "question": "Ethics are:",
+    "options": [
+      "Moral standards",
+      "Laws",
+      "Rules",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "unit": "Unit 1",
+    "question": "Value education is:",
+    "options": [
+      "Universal",
+      "Rational",
+      "Verifiable",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "unit": "Unit 1",
+    "question": "Prosperity means:",
+    "options": [
+      "More wealth",
+      "Feeling of enough",
+      "Consumption",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "unit": "Unit 1",
+    "question": "Production system should be:",
+    "options": [
+      "Eco-friendly",
+      "People-friendly",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "unit": "Unit 1",
+    "question": "Happiness depends on:",
+    "options": [
+      "External conditions",
+      "Self",
+      "Society",
+      "Luck"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "unit": "Unit 1",
+    "question": "Natural acceptance is:",
+    "options": [
+      "Universal",
+      "Changing",
+      "Relative",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "unit": "Unit 1",
+    "question": "Sensations are:",
+    "options": [
+      "Sound",
+      "Taste",
+      "Smell",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "unit": "Unit 1",
+    "question": "Human consciousness gives priority to:",
+    "options": [
+      "Relationship",
+      "Understanding",
+      "Happiness",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 30,
+    "unit": "Unit 1",
+    "question": "Liberation means:",
+    "options": [
+      "Clear understanding",
+      "Freedom from confusion",
+      "Reality understanding",
+      "All"
+    ],
+    "answer": 3
+  },
+    {
+    "id": 31,
+    "unit": "Unit 2",
+    "question": "Labour means:",
+    "options": [
+      "Physical work",
+      "Thinking",
+      "Meditation",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "unit": "Unit 2",
+    "question": "Needs like trust belong to:",
+    "options": [
+      "Body",
+      "Self",
+      "Both",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "unit": "Unit 2",
+    "question": "Seer means:",
+    "options": [
+      "Doer",
+      "Understander",
+      "Experiencer",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 34,
+    "unit": "Unit 2",
+    "question": "Happiness depends on:",
+    "options": [
+      "Body",
+      "Self",
+      "Society",
+      "External"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "unit": "Unit 2",
+    "question": "Body is an instrument for:",
+    "options": [
+      "Sensations",
+      "Understanding",
+      "Preconditioning",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "unit": "Unit 2",
+    "question": "Preconditioning means:",
+    "options": [
+      "Assumption",
+      "Understanding",
+      "Natural acceptance",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "unit": "Unit 2",
+    "question": "Right behaviour is:",
+    "options": [
+      "Confused",
+      "Wrong",
+      "Self-organized",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "unit": "Unit 2",
+    "question": "Thought power leads to:",
+    "options": [
+      "Desire",
+      "Expectation",
+      "Analysis",
+      "Realization"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 39,
+    "unit": "Unit 2",
+    "question": "Swasthya means:",
+    "options": [
+      "Health",
+      "Harmony in body",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "unit": "Unit 2",
+    "question": "Self is:",
+    "options": [
+      "Body",
+      "Conscious entity",
+      "Material",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "unit": "Unit 2",
+    "question": "Realization is activity of:",
+    "options": [
+      "Body",
+      "Self",
+      "Both",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "unit": "Unit 2",
+    "question": "Activities of body are:",
+    "options": [
+      "Temporary",
+      "Continuous",
+      "Permanent",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "unit": "Unit 2",
+    "question": "Self and body relation:",
+    "options": [
+      "Same",
+      "Separate",
+      "Co-existence",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "unit": "Unit 2",
+    "question": "Need of self is:",
+    "options": [
+      "Quantitative",
+      "Qualitative",
+      "Temporary",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "unit": "Unit 2",
+    "question": "Self is:",
+    "options": [
+      "Doer",
+      "Enjoyer",
+      "Seer",
+      "All"
+    ],
+    "answer": 3
+  },
+    {
+    "id": 46,
+    "unit": "Unit 2",
+    "question": "Physical facilities are:",
+    "options": [
+      "Unlimited",
+      "Limited",
+      "Irrelevant",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "unit": "Unit 2",
+    "question": "Sanyam means:",
+    "options": [
+      "Regulation",
+      "Control",
+      "Self-regulation",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "unit": "Unit 2",
+    "question": "Sensory pleasure is:",
+    "options": [
+      "Continuous",
+      "Temporary",
+      "Permanent",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "unit": "Unit 2",
+    "question": "Choices should be based on:",
+    "options": [
+      "Natural acceptance",
+      "Sensation",
+      "Assumption",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "unit": "Unit 2",
+    "question": "Resolution comes from:",
+    "options": [
+      "Knowing",
+      "Assuming",
+      "Recognizing",
+      "Fulfilling"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "unit": "Unit 2",
+    "question": "Material unit is:",
+    "options": [
+      "Body",
+      "Facility",
+      "Both",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 52,
+    "unit": "Unit 2",
+    "question": "Self reads:",
+    "options": [
+      "Instructions",
+      "Sensations",
+      "Information",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "unit": "Unit 2",
+    "question": "Ever existing unit:",
+    "options": [
+      "Space",
+      "Body",
+      "Material",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "unit": "Unit 2",
+    "question": "Consciousness is:",
+    "options": [
+      "Continuous",
+      "Temporary",
+      "Cyclic",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "unit": "Unit 2",
+    "question": "Self wants:",
+    "options": [
+      "Pleasure",
+      "Happiness",
+      "Wealth",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "unit": "Unit 2",
+    "question": "Body is:",
+    "options": [
+      "Conscious",
+      "Material",
+      "Spiritual",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "unit": "Unit 2",
+    "question": "Good health excludes:",
+    "options": [
+      "Happiness",
+      "Prosperity",
+      "Jealousy",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "unit": "Unit 2",
+    "question": "Wrong statement:",
+    "options": [
+      "Self is instrument",
+      "Self is doer",
+      "Self is seer",
+      "Self is enjoyer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "unit": "Unit 2",
+    "question": "Right utilization of body includes:",
+    "options": [
+      "Work",
+      "Communication",
+      "Tradition",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 60,
+    "unit": "Unit 2",
+    "question": "Physical facilities required for:",
+    "options": [
+      "Body maintenance",
+      "Health",
+      "Function",
+      "All"
+    ],
+    "answer": 3
+  },
+
+   {
+    "id": 61,
+    "unit": "Unit 3",
+    "question": "Transformation in nature is:",
+    "options": [
+      "Linear",
+      "Cyclical",
+      "Static",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "unit": "Unit 3",
+    "question": "Co-existence means:",
+    "options": [
+      "Harmony",
+      "Struggle",
+      "Conflict",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "unit": "Unit 3",
+    "question": "Space is:",
+    "options": [
+      "Unlimited",
+      "All-pervading",
+      "No activity",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "unit": "Unit 3",
+    "question": "Natural acceptance is:",
+    "options": [
+      "Universal",
+      "Time dependent",
+      "Place dependent",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "unit": "Unit 3",
+    "question": "Right understanding leads to:",
+    "options": [
+      "Happiness",
+      "Prosperity",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "unit": "Unit 3",
+    "question": "Love is:",
+    "options": [
+      "Complete value",
+      "Partial",
+      "Temporary",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "unit": "Unit 3",
+    "question": "Trust means:",
+    "options": [
+      "Assumption",
+      "Clarity of intention",
+      "Doubt",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "unit": "Unit 3",
+    "question": "Existence has:",
+    "options": [
+      "Conflict",
+      "Co-existence",
+      "Struggle",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "unit": "Unit 3",
+    "question": "Relationship in nature is:",
+    "options": [
+      "Mutual fulfilment",
+      "Competition",
+      "Conflict",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "unit": "Unit 3",
+    "question": "Universal human order starts from:",
+    "options": [
+      "Individual",
+      "Family",
+      "Society",
+      "Nature"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "unit": "Unit 3",
+    "question": "Technology should be:",
+    "options": [
+      "Eco-friendly",
+      "User-friendly",
+      "Need-based",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 72,
+    "unit": "Unit 3",
+    "question": "Gratitude is:",
+    "options": [
+      "Feeling of effort recognition",
+      "Worship",
+      "Ego",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "unit": "Unit 3",
+    "question": "Foundation of value is:",
+    "options": [
+      "Trust",
+      "Love",
+      "Respect",
+      "Affection"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "unit": "Unit 3",
+    "question": "Justice leads to:",
+    "options": [
+      "Happiness",
+      "Harmony",
+      "Mutual fulfilment",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 75,
+    "unit": "Unit 3",
+    "question": "Co-existence is expressed as:",
+    "options": [
+      "Behaviour",
+      "Work",
+      "Participation",
+      "All"
+    ],
+    "answer": 3
+  },
+
+    {
+    "id": 76,
+    "unit": "Unit 3",
+    "question": "Human values education is:",
+    "options": [
+      "Universal",
+      "Rational",
+      "Self-exploratory",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 77,
+    "unit": "Unit 3",
+    "question": "Human goal excludes:",
+    "options": [
+      "Understanding",
+      "Prosperity",
+      "Fearlessness",
+      "Control over nature"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "unit": "Unit 3",
+    "question": "Family is:",
+    "options": [
+      "Basic unit",
+      "Society",
+      "Nature",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "unit": "Unit 3",
+    "question": "Natural unacceptable feeling:",
+    "options": [
+      "Harmony",
+      "Relationship",
+      "Struggle",
+      "Co-existence"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "unit": "Unit 3",
+    "question": "Authentication is activity of:",
+    "options": [
+      "Realization",
+      "Understanding",
+      "Contemplation",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "unit": "Unit 3",
+    "question": "Unanimity means:",
+    "options": [
+      "Working together",
+      "Co-existence feeling",
+      "Ego absence",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "unit": "Unit 3",
+    "question": "Utility value helps:",
+    "options": [
+      "Body",
+      "Society",
+      "Both",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 83,
+    "unit": "Unit 3",
+    "question": "Justice has:",
+    "options": [
+      "Four elements",
+      "Three",
+      "Five",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "unit": "Unit 3",
+    "question": "Human development means:",
+    "options": [
+      "Wealth",
+      "Power",
+      "Human consciousness",
+      "None"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 85,
+    "unit": "Unit 3",
+    "question": "Animal consciousness focuses on:",
+    "options": [
+      "Sensory pleasure",
+      "Relationship",
+      "Understanding",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "unit": "Unit 3",
+    "question": "Behaviour depends on:",
+    "options": [
+      "Desire",
+      "Thought",
+      "Expectation",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 87,
+    "unit": "Unit 3",
+    "question": "Disrespect leads to:",
+    "options": [
+      "Ego",
+      "Depression",
+      "Conflict",
+      "All"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 88,
+    "unit": "Unit 3",
+    "question": "Doubt in intention causes:",
+    "options": [
+      "Problems",
+      "Harmony",
+      "Trust",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "unit": "Unit 3",
+    "question": "Compassion belongs to:",
+    "options": [
+      "Individual",
+      "Family",
+      "Society",
+      "Nature"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "unit": "Unit 3",
+    "question": "Undivided society comes from:",
+    "options": [
+      "Justice",
+      "Wealth",
+      "Power",
+      "Technology"
+    ],
+    "answer": 0
+  },
+    {
+    "id": 91,
+    "unit": "Unit 4",
+    "question": "Harmony in nature refers to:",
+    "options": [
+      "Mutual conflict",
+      "Mutual fulfilment",
+      "Competition",
+      "Isolation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "unit": "Unit 4",
+    "question": "The four orders of nature are:",
+    "options": [
+      "Human, Animal, Plant, Machine",
+      "Physical, Plant, Animal, Human",
+      "Physical, Animal, Human, Machine",
+      "Plant, Animal, Human, Society"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "unit": "Unit 4",
+    "question": "Interconnectedness in nature means:",
+    "options": [
+      "Units are independent",
+      "Units are isolated",
+      "Units are related and mutually fulfilling",
+      "Units are competitive"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "unit": "Unit 4",
+    "question": "Mutual fulfilment in nature indicates:",
+    "options": [
+      "Exploitation",
+      "Competition",
+      "Cooperation among units",
+      "Isolation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "unit": "Unit 4",
+    "question": "Self-regulation in nature means:",
+    "options": [
+      "External control",
+      "Balance maintained naturally",
+      "Human control",
+      "Random functioning"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "unit": "Unit 4",
+    "question": "Co-existence means:",
+    "options": [
+      "Living separately",
+      "Living with mutual harmony",
+      "Living competitively",
+      "Living independently"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "unit": "Unit 4",
+    "question": "The basic principle of nature is:",
+    "options": [
+      "Struggle",
+      "Dominance",
+      "Mutual fulfilment",
+      "Conflict"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "unit": "Unit 4",
+    "question": "Which order supports all others?",
+    "options": [
+      "Human",
+      "Animal",
+      "Physical",
+      "Plant"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "unit": "Unit 4",
+    "question": "Plants belong to:",
+    "options": [
+      "Human",
+      "Animal",
+      "Pranic (Plant) order",
+      "Physical"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 100,
+    "unit": "Unit 4",
+    "question": "Animals belong to:",
+    "options": [
+      "Physical",
+      "Pranic",
+      "Animal order",
+      "Human"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 101,
+    "unit": "Unit 4",
+    "question": "Humans belong to:",
+    "options": [
+      "Physical",
+      "Animal",
+      "Human order",
+      "Pranic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "unit": "Unit 4",
+    "question": "Disturbance in nature is due to:",
+    "options": [
+      "Natural processes",
+      "Human interference",
+      "Plants",
+      "Animals"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "unit": "Unit 4",
+    "question": "Sustainable living is based on:",
+    "options": [
+      "Exploitation",
+      "Harmony with nature",
+      "Competition",
+      "Consumption"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 104,
+    "unit": "Unit 4",
+    "question": "Biodiversity supports:",
+    "options": [
+      "Conflict",
+      "Harmony",
+      "Isolation",
+      "Dominance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "unit": "Unit 4",
+    "question": "Overconsumption leads to:",
+    "options": [
+      "Balance",
+      "Harmony",
+      "Ecological imbalance",
+      "Sustainability"
+    ],
+    "answer": 2
+  },
+    {
+    "id": 106,
+    "unit": "Unit 4",
+    "question": "Cyclic processes indicate:",
+    "options": [
+      "Randomness",
+      "Continuity",
+      "Isolation",
+      "Conflict"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 107,
+    "unit": "Unit 4",
+    "question": "Role of humans in nature:",
+    "options": [
+      "Exploitation",
+      "Harmony",
+      "Dominance",
+      "Isolation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 108,
+    "unit": "Unit 4",
+    "question": "Renewable resources promote:",
+    "options": [
+      "Imbalance",
+      "Harmony",
+      "Exploitation",
+      "Depletion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "unit": "Unit 4",
+    "question": "Non-renewable resources lead to:",
+    "options": [
+      "Sustainability",
+      "Harmony",
+      "Depletion",
+      "Balance"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 110,
+    "unit": "Unit 4",
+    "question": "Holistic perception means:",
+    "options": [
+      "Partial view",
+      "Fragmented view",
+      "Complete understanding",
+      "Ignorance"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 111,
+    "unit": "Unit 4",
+    "question": "Nature operates on:",
+    "options": [
+      "Human laws",
+      "Self-regulation",
+      "External force",
+      "Random behavior"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 112,
+    "unit": "Unit 4",
+    "question": "Relationship in nature is:",
+    "options": [
+      "Conflict",
+      "Mutual fulfilment",
+      "Isolation",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "unit": "Unit 4",
+    "question": "Ecological balance is maintained by:",
+    "options": [
+      "Humans",
+      "Nature itself",
+      "Animals",
+      "Plants"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "unit": "Unit 4",
+    "question": "Exploitation leads to:",
+    "options": [
+      "Harmony",
+      "Sustainability",
+      "Environmental problems",
+      "Balance"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 115,
+    "unit": "Unit 4",
+    "question": "Mutual fulfilment excludes:",
+    "options": [
+      "Cooperation",
+      "Harmony",
+      "Exploitation",
+      "Co-existence"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 116,
+    "unit": "Unit 4",
+    "question": "Physical order includes:",
+    "options": [
+      "Plants",
+      "Animals",
+      "Soil, Air, Water",
+      "Humans"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 117,
+    "unit": "Unit 4",
+    "question": "Harmony ensures:",
+    "options": [
+      "Conflict",
+      "Sustainability",
+      "Isolation",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "unit": "Unit 4",
+    "question": "Lifestyle should align with:",
+    "options": [
+      "Overconsumption",
+      "Natural harmony",
+      "Competition",
+      "Exploitation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "unit": "Unit 4",
+    "question": "Interdependence leads to:",
+    "options": [
+      "Conflict",
+      "Harmony",
+      "Isolation",
+      "Dominance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 120,
+    "unit": "Unit 4",
+    "question": "Nature provides:",
+    "options": [
+      "Exploitation",
+      "Mutual fulfilment",
+      "Conflict",
+      "Isolation"
+    ],
+    "answer": 1
+  },
+    {
+    "id": 121,
+    "unit": "Unit 5",
+    "question": "Professional ethics refers to:",
+    "options": [
+      "Personal beliefs",
+      "Moral principles in profession",
+      "Rules only",
+      "Laws only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "unit": "Unit 5",
+    "question": "Ethical human conduct is based on:",
+    "options": [
+      "Fear",
+      "Values",
+      "Pressure",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 123,
+    "unit": "Unit 5",
+    "question": "Natural acceptance means:",
+    "options": [
+      "Changing beliefs",
+      "Universal acceptance",
+      "Personal bias",
+      "Social pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 124,
+    "unit": "Unit 5",
+    "question": "Humanistic education focuses on:",
+    "options": [
+      "Skills only",
+      "Values and understanding",
+      "Marks",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "unit": "Unit 5",
+    "question": "Universal human order aims at:",
+    "options": [
+      "Conflict",
+      "Harmony",
+      "Competition",
+      "Isolation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 126,
+    "unit": "Unit 5",
+    "question": "Professional competence includes:",
+    "options": [
+      "Skills only",
+      "Skills + ethics",
+      "Knowledge only",
+      "Experience only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 127,
+    "unit": "Unit 5",
+    "question": "Holistic technologies are:",
+    "options": [
+      "Profit-based",
+      "Eco-friendly & human-friendly",
+      "Costly",
+      "Complex"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "unit": "Unit 5",
+    "question": "Humanistic constitution ensures:",
+    "options": [
+      "Control",
+      "Justice and harmony",
+      "Profit",
+      "Power"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 129,
+    "unit": "Unit 5",
+    "question": "Ethics ensures:",
+    "options": [
+      "Conflict",
+      "Trust",
+      "Loss",
+      "Confusion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 130,
+    "unit": "Unit 5",
+    "question": "Ethical organizations promote:",
+    "options": [
+      "Corruption",
+      "Transparency",
+      "Exploitation",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 131,
+    "unit": "Unit 5",
+    "question": "Values and ethics are:",
+    "options": [
+      "Unrelated",
+      "Closely related",
+      "Opposite",
+      "Independent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 132,
+    "unit": "Unit 5",
+    "question": "Ethical decision making is based on:",
+    "options": [
+      "Profit",
+      "Values",
+      "Pressure",
+      "Fear"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 133,
+    "unit": "Unit 5",
+    "question": "Trust leads to:",
+    "options": [
+      "Conflict",
+      "Harmony",
+      "Loss",
+      "Confusion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 134,
+    "unit": "Unit 5",
+    "question": "Transparency promotes:",
+    "options": [
+      "Corruption",
+      "Trust",
+      "Conflict",
+      "Loss"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 135,
+    "unit": "Unit 5",
+    "question": "Leadership should be:",
+    "options": [
+      "Dominating",
+      "Ethical",
+      "Aggressive",
+      "Competitive"
+    ],
+    "answer": 1
+  },
+
+    {
+    "id": 136,
+    "unit": "Unit 5",
+    "question": "Ethical competence includes:",
+    "options": [
+      "Skill only",
+      "Value-based decisions",
+      "Knowledge only",
+      "Experience only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 137,
+    "unit": "Unit 5",
+    "question": "Humanistic education develops:",
+    "options": [
+      "Competition",
+      "Responsibility",
+      "Fear",
+      "Pressure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "unit": "Unit 5",
+    "question": "Ethical dilemma means:",
+    "options": [
+      "Clear decision",
+      "Confusion between right & wrong",
+      "No choice",
+      "Easy decision"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 139,
+    "unit": "Unit 5",
+    "question": "Engineers should focus on:",
+    "options": [
+      "Profit",
+      "Human welfare",
+      "Competition",
+      "Power"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 140,
+    "unit": "Unit 5",
+    "question": "Ethical production systems are:",
+    "options": [
+      "Profit-driven",
+      "Value-driven",
+      "Cost-driven",
+      "Demand-driven"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 141,
+    "unit": "Unit 5",
+    "question": "Corporate culture should include:",
+    "options": [
+      "Corruption",
+      "Ethics",
+      "Exploitation",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "unit": "Unit 5",
+    "question": "Value-based practices lead to:",
+    "options": [
+      "Conflict",
+      "Sustainability",
+      "Loss",
+      "Isolation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 143,
+    "unit": "Unit 5",
+    "question": "Ethical conflicts resolved by:",
+    "options": [
+      "Ignoring",
+      "Right understanding",
+      "Pressure",
+      "Fear"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "unit": "Unit 5",
+    "question": "Professional ethics promotes:",
+    "options": [
+      "Dishonesty",
+      "Integrity",
+      "Corruption",
+      "Exploitation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 145,
+    "unit": "Unit 5",
+    "question": "Humanistic society is based on:",
+    "options": [
+      "Competition",
+      "Values",
+      "Power",
+      "Profit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 146,
+    "unit": "Unit 5",
+    "question": "Ethical leadership builds:",
+    "options": [
+      "Fear",
+      "Trust",
+      "Conflict",
+      "Loss"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 147,
+    "unit": "Unit 5",
+    "question": "Awareness helps in:",
+    "options": [
+      "Ignorance",
+      "Ethical practices",
+      "Corruption",
+      "Conflict"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 148,
+    "unit": "Unit 5",
+    "question": "Value-based education leads to:",
+    "options": [
+      "Confusion",
+      "Clarity",
+      "Conflict",
+      "Competition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 149,
+    "unit": "Unit 5",
+    "question": "Ethical success is:",
+    "options": [
+      "Short-term",
+      "Long-term",
+      "Temporary",
+      "Situational"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "unit": "Unit 5",
+    "question": "Professional excellence requires:",
+    "options": [
+      "Skills only",
+      "Skills + values",
+      "Knowledge only",
+      "Experience only"
+    ],
+    "answer": 1
+  }
+]

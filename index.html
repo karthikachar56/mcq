@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Human Values MCQ Test</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- AUTH SCREEN -->
+        <div id="authScreen" class="card">
+            <h1>UHV MCQ Premium</h1>
+            <h2 id="authTitle">Login to Your Account</h2>
+            
+            <div id="authForm">
+                <div class="form-group" id="nameField" style="display: none;">
+                    <label for="authName">Full Name</label>
+                    <input type="text" id="authName" placeholder="Enter your name">
+                </div>
+                <div class="form-group">
+                    <label for="authEmail">Email Address</label>
+                    <input type="email" id="authEmail" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="authPassword">Password</label>
+                    <input type="password" id="authPassword" placeholder="Enter your password" required>
+                </div>
+                
+                <div id="authError" class="auth-error hidden"></div>
+                
+                <button id="authSubmitBtn">Login</button>
+            </div>
+            
+            <div class="auth-switch">
+                <p id="authSwitchText">Don't have an account? <span id="authSwitchLink">Sign Up</span></p>
+            </div>
+        </div>
+
+        <!-- DASHBOARD SCREEN -->
+        <div id="dashboardScreen" class="card hidden">
+            <div class="dashboard-header">
+                <h1>Premium Dashboard</h1>
+                
+                <div class="user-profile-menu">
+                    <div id="profileTrigger" class="profile-trigger">
+                        <div id="userAvatar" class="avatar-circle">U</div>
+                        <div class="profile-meta">
+                            <span id="userName" class="profile-name">User</span>
+                            <span class="premium-badge">Premium</span>
+                        </div>
+                        <span class="arrow-icon">▼</span>
+                    </div>
+                    
+                    <div id="profileDropdown" class="profile-dropdown hidden">
+                        <div class="dropdown-header">
+                            <div id="dropdownAvatar" class="avatar-circle large">U</div>
+                            <div class="dropdown-user-details">
+                                <h4 id="dropdownName">User Name</h4>
+                                <p id="dropdownEmail">user@example.com</p>
+                            </div>
+                        </div>
+                        <div class="dropdown-divider"></div>
+                        <div class="dropdown-items">
+                            <div class="dropdown-item">
+                                <span>Subscription</span>
+                                <span class="badge-gold">PRO</span>
+                            </div>
+                            <div class="dropdown-item">
+                                <span>Active Set</span>
+                                <span id="dropdownSet">Set 1</span>
+                            </div>
+                        </div>
+                        <div class="dropdown-divider"></div>
+                        <button id="logoutBtn" class="btn-danger dropdown-logout">Logout</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="details">
+                <div>
+                    <h3>Tests Completed</h3>
+                    <span id="statCompleted">0</span>
+                </div>
+                <div>
+                    <h3>Average Score</h3>
+                    <span id="statAvgScore">0%</span>
+                </div>
+                <div>
+                    <h3>Next Available</h3>
+                    <span id="statNextSet" style="font-size: 18px;">Set 1 (Q1-30)</span>
+                </div>
+            </div>
+
+            <div class="dashboard-actions">
+                <button id="startSetBtn">Take Test</button>
+                <button id="toggleHistoryBtn" class="btn-secondary">View History</button>
+            </div>
+
+            <div id="historySection" class="hidden">
+                <h2 class="section-title">Attempt History</h2>
+                <div class="table-container">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Set Name</th>
+                                <th>Score</th>
+                                <th>Percentage</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody id="historyTableBody">
+                            <!-- Populated via JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- QUIZ SCREEN -->
+
+        <div id="quizScreen" class="card hidden">
+
+            <div class="topBar">
+
+                <div>
+
+                    Question
+
+                    <span id="currentQuestion">
+                        1
+                    </span>
+
+                    /
+
+                    <span id="questionCount">
+                        150
+                    </span>
+
+                </div>
+
+                <div>
+
+                    Score :
+
+                    <span id="liveScore">
+                        0
+                    </span>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="progress">
+
+                <div id="progressBar">
+
+                </div>
+
+            </div>
+
+
+            <div class="questionBox">
+
+                <h2 id="questionText">
+
+                    Loading Question...
+
+                </h2>
+
+            </div>
+
+
+
+            <div id="optionsContainer">
+
+            </div>
+
+
+
+            <div class="buttons">
+                <button id="quitQuizBtn" class="btn-danger">
+                    Quit Test
+                </button>
+                <div class="quiz-nav-btns">
+                    <button id="prevBtn">
+                        Previous
+                    </button>
+                    <button id="nextBtn">
+                        Next
+                    </button>
+                    <button id="submitBtn">
+                        Submit Test
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+        <!-- RESULT SCREEN -->
+
+        <div id="resultScreen" class="card hidden">
+
+            <h1>
+
+                Test Result
+
+            </h1>
+
+            <div class="resultBox">
+
+                <div>
+
+                    <h3>Total Questions</h3>
+
+                    <p id="resultTotal">
+
+                        150
+
+                    </p>
+
+                </div>
+
+                <div>
+
+                    <h3>Correct</h3>
+
+                    <p id="correctAnswers">
+
+                        0
+
+                    </p>
+
+                </div>
+
+                <div>
+
+                    <h3>Wrong</h3>
+
+                    <p id="wrongAnswers">
+
+                        0
+
+                    </p>
+
+                </div>
+
+                <div>
+
+                    <h3>Percentage</h3>
+
+                    <p id="percentage">
+
+                        0%
+
+                    </p>
+
+                </div>
+
+            </div>
+
+
+
+            <h2 id="status">
+
+                PASS
+
+            </h2>
+
+
+
+            <button id="resultDashboardBtn" class="btn-secondary">
+                Back to Dashboard
+            </button>
+            <button id="restartBtn">
+                Restart Set
+            </button>
+            <button id="reviewBtn">
+                Review Mistakes
+            </button>
+
+        </div>
+
+
+
+
+        <!-- REVIEW SCREEN -->
+
+        <div id="reviewScreen" class="card hidden">
+
+            <h1>
+
+                Wrong Answers Review
+
+            </h1>
+
+            <div id="reviewContainer">
+
+            </div>
+
+            <button id="backResultBtn" class="btn-secondary">
+                Back to Result
+            </button>
+            <button id="reviewDashboardBtn">
+                Back to Dashboard
+            </button>
+
+        </div>
+
+
+
+    </div>
+
+    <!-- CUSTOM PREMIUM MODAL -->
+    <div id="customModal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h2 id="modalTitle">Confirm Action</h2>
+            <p id="modalMessage">Are you sure you want to proceed?</p>
+            <div class="modal-buttons">
+                <button id="modalCancelBtn" class="btn-secondary">Cancel</button>
+                <button id="modalConfirmBtn" class="btn-danger">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
